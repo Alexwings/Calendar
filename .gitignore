@@ -1,0 +1,4 @@
+.DS_Store
+*/.DS_Store
+Calendar.xcodeproj/project.xcworkspace/*
+Calendar.xcodeproj/xcuserdata/*
